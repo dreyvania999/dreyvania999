@@ -1,7 +1,3 @@
-<div id="header" align="center">
-	<h1>Hi there 👋, I'm Ivan</h1>
-</div>
-
 <div id="socials" align="center">
 	<a href="https://vk.com/id500044052">
 		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
